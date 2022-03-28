@@ -1,0 +1,3 @@
+C:/Users/Aviva/Desktop/C++/Ex2/Part B/cmake-build-debug/CMakeFiles/Part_B.dir
+C:/Users/Aviva/Desktop/C++/Ex2/Part B/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Aviva/Desktop/C++/Ex2/Part B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
